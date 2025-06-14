@@ -161,9 +161,9 @@ Proyek ini berhasil membangun dan mensimulasikan Data Warehouse untuk sektor eks
 
 ## 📂 Struktur Proyek
 ```
+├── README.md
 ├── notebooks/
 │   └── export_import_analysis.ipynb
-├── README.md
 ```
 ---
 
